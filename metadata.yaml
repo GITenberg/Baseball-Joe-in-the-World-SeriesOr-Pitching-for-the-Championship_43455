@@ -1,0 +1,34 @@
+_repo: Baseball-Joe-in-the-World-SeriesOr-Pitching-for-the-Championship_43455
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43455-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: Joe Matson of the Giants overcomes kidnappers and the Red Sox to lead
+  his team to a Series victory by winning four games, including a seventh game no-hitter
+  in which he starts a triple play.
+gutenberg_issued: '2013-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Baseball players -- Juvenile fiction'
+- !lcsh 'New York Giants (Baseball team) -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: Baseball Joe in the World Series; or, Pitching for the Championship
+url: http://www.gutenberg.org/ebooks/43455
